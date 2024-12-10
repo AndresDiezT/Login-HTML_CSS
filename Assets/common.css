@@ -1,0 +1,27 @@
+:root {
+    /* Colores */
+    --primary-color: #ffffff;
+    --secondary-color: #0c3c68; /* Azul Marino */
+    --primary-button-color: #A100FF; /* Morado */
+    --error-color: #ee3d42; /* Rojo */
+    --disabled-color: #e1e3e1;
+
+    /* Colores Hover */
+    --primary-color-hover: #D1D1FF;
+    --primary-button-hover: #5500cc;
+    
+    /* Tipografia */
+    --font-family-base: "Roboto", sans-serif, Arial;
+    --font-size-h1: 2.25rem; /* 36px */
+    --font-size-h2: 1.875rem; /* 30px */
+    --font-size-body: 1rem; /* 16px */
+    --font-size-secondary: 0.875rem; /* 14px */
+    --font-size-note: 0.75rem; /* 12px */
+
+    /* Ancho y Alto */
+    --max-width-container: 1200px;
+
+    /* Bordes y Sombras */
+    --border-radius: 5px; /* Radio de bordes */
+    --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra de caja */
+}
